@@ -1,0 +1,38 @@
+.contenedor{
+    background-color:#DB753B;
+    margin: 15px;
+    padding:30px;
+    width: 300px;
+    text-align: center;
+    border-radius: 25px;
+    box-shadow: 1px 1px 12px -1px #8b8781;
+}
+
+.contenedor h2{
+    color:aliceblue;
+    font-weight: 20;
+    margin-bottom: 15px;
+}
+
+.titleForm{
+    margin-bottom: 15px;
+    font-size: 17px;
+}
+
+.inputForm{
+    border-radius:5px;
+    border: 2px solid #8b8781;
+    text-align: center;
+    box-shadow: 1px 1px 12px -1px #F4B458;
+}
+
+.buttonform  button{
+    color: rgb(0, 0, 0);
+    background-color: #F4B458;
+    border-radius: 25px;
+    border: none;
+    font: inherit;
+    padding: 8px;
+    width: 70%;
+    cursor: pointer;
+}

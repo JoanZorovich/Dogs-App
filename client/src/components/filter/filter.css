@@ -1,0 +1,18 @@
+.mainFilter{
+    background-color:  #F4B458;
+    padding: 15px;
+    border-radius: 5px;
+    width: 200px;
+    margin-bottom: 20px;
+    box-shadow: 1px 1px 12px -1px #F4B458;
+}
+
+.mainFilter h3{
+    margin-bottom: 5px;
+    text-align: center;
+    color: #DB753B;
+}
+
+.formContainer{
+    margin: 10px;
+}

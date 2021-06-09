@@ -1,0 +1,30 @@
+.sidebar{
+    width: 13%;
+    height: 100vh;
+    background-color: #DB753B;
+    /*background-image: url("./backgroud8.png");*/
+    height:calc(100vh - 100px);
+}
+
+.sidebar ul{
+    list-style: none;
+    padding: 10px;
+    
+}
+
+.sidebar ul li{
+    margin-bottom: 1rem;
+}
+
+.resetBotton{
+    color: rgb(255, 255, 255);
+    background-color: #000000;
+    border-radius: 25px;
+    border: none;
+    font: inherit;
+    padding: 8px;
+    width: 85%;
+    cursor: pointer;
+    margin-top: 15px;
+    box-shadow: 1px 1px 12px -1px #F4B458;
+}

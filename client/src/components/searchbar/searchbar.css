@@ -1,0 +1,33 @@
+.searchContainer{
+
+    margin:10px 0px; 
+    /*background-color: aqua;*/
+    padding:10px 0px;
+   display: flex;
+}
+.inputStyle{
+    border-radius: 10px;
+    padding: 5px;
+    margin-bottom: 5px;
+    border: 2px solid #F4B458;
+    text-align: center;
+    box-shadow: 1px 1px 12px -1px #F4B458;
+}
+
+.inputStyle:hover{
+    border: 2px solid #000000;
+    transition: all .3s;
+}
+
+.searchButton{
+    cursor: pointer;
+    border: none;
+    background-color: #DB753B;
+    margin: 5px;
+}
+
+.lupa{
+    width: 30px;
+    border-radius: 30px;
+    box-shadow: 1px 1px 12px -1px #F4B458;
+}
