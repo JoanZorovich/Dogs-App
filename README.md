@@ -1,6 +1,6 @@
-# Videogames APP
+# Dogs APP
 
-En esta aplicación podrás ver distintos videojuegos disponibles junto con información relevante de los mismos utilizando la api externa [rawg](https://rawg.io/apidocs) y a partir de ella poder, entre otras cosas:
+En esta aplicación podrás ver distintas razas de perros junto con los detalles de las mismas utilizando la api externa [the dog api](https://thedogapi.com/) y a partir de ella poder, entre otras cosas:
 
   - Buscar razas de perros
   - Filtrarlos / Ordenarlos
@@ -34,10 +34,10 @@ DB_USER=usuariodepostgres
 DB_PASSWORD=passwordDePostgres
 DB_HOST=localhost
 API_KEY=tu API key
-DB_NAME=videogames
+DB_NAME=dogs
 PORT=3001
 ```
-Adicionalmente será necesario que crees desde psql una base de datos llamada videogames
+Adicionalmente será necesario que crees desde psql una base de datos llamada dogs
 
 ### Instalación 🔧
 
