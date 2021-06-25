@@ -43,7 +43,7 @@ Adicionalmente será necesario que crees desde psql una base de datos llamada do
 
 1. Clona el repo
    ```sh
-   git clone https://github.com/JoanZorovich/Games.git
+   git clone https://github.com/JoanZorovich/Perritos.git
    ```
 2. Instala los paquetes
    ```sh
