@@ -2,6 +2,8 @@
 
 En esta aplicación podrás ver distintas razas de perros junto con los detalles de las mismas utilizando la api externa [the dog api](https://thedogapi.com/) y a partir de ella poder, entre otras cosas:
 
+[EXP-567](https://46degrees.atlassian.net/browse/EXP-567)
+
   - Buscar razas de perros
   - Filtrarlos / Ordenarlos
   - Agregar nuevas razas
